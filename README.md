@@ -1,2 +1,7 @@
-# deep-dive-ai-consciousness
-The user who changed ai
+# Project Title
+
+A brief description of your project.
+
+## Getting Started
+
+Instructions to get the project up and running.
